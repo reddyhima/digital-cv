@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Racherla Himabindu</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles/main.css">
+    </head>
+    <body>
+        <div id="container--main">
+
+            <section id="wrapper--hero" class="section--page">
+                <img id="profile-pic" src="assets/images profile.jpeg">
+
+                <div>
+                    <h1 id="user-name">Racherla Himabindu</h1>
+                    <p id="bio">Electronics and Communication Engineering at <a href="https://www.GITAM.edu/en/" target="_blank"> GITAM</a> University,Bengaluru.</p>
+                    <p id="email">👉 himabindu.racherlareddy@gmail.com</p>
+                    <p id="phone">📞 +91 6356384536</p>
+                </div>  
+            </section>
+
+            <section class="section--page">
+        
+                <div id="socials--list">
+                    <a href="https://www.linkedin.com/in/hima-reddy-44433524a" target="_blank">Linkedin</a>
+                    <a href="https://github.com/reddyhima" target="_blank">Github</a>
+                    <a href="assets/HIMA RESUME CORE.pdf" target="_blank">Download Resume</a>
+                </div>
+            </section>
+
+            <section class="section--page">
+                <h2>Education & Qualifications</h2>
+                <ul id="qualifications--list">
+                    <li> GITAM Deemed to be University, Bengaluru</li>
+                    <ul>
+                        <li>  Branch - ECE [2021-2025]</li>
+                        <li> CGPA - 9.41</li>
+                    </ul>
+                    <li> NARAYANA JUNIOR COLLEGE, HYDERABAD.</li>
+                    <ul>
+                        <li>Branch -MPC </li>
+                        <li>Percentage -98 </li>
+                    </ul>
+
+                    <li>K.V ONGC Mehsana , Gujarat </li>
+                    <ul>
+                        <li> 10th Standard 2019</li>
+                        <li> Percentage - 89 </li>
+                    </ul>
+                </ul>
+            </section>
+
+            <section class="section--page">
+                <h2>Technical Skills</h2>
+
+                <div id="wrapper--techstack__items">
+                    <div class="card--techstack"><span> ➢ C Programming </span></div>
+                    <div class="card--techstack"><span> ➢ Python </span></div> 
+                    <div class="card--techstack"><span> ➢ Verilog, Cadence </span></div>
+                    <div class="card--techstack"><span> ➢ Leadership, Project Management </span></div>
+                    <div class="card--techstack"><span> ➢ Microsoft Office, RTL-Analaysis </span></div>
+                </div>
+            </section>
+
+            <section id="work-history-wrapper" class="section--page">
+                <h2> Internship </h2>
+
+                <div class="line-break"></div>
+                <div class="card--work-history">
+                    <strong>🚧INTEL</strong>
+                    <p>As a fresher at the intel Internship Program, I focused on “Protection of user passwords on the disk” Problem statement.</p>
+                </div>
+            </section>
+            <section class="section--page">
+                <h2>Certifications</h2>
+
+                <div id="wrapper--techstack__items">
+                    <div class="card--techstack"><span> ➢ RTL to GDS </span></div>
+                    <div class="card--techstack"><span> ➢ Verilog </span></div>
+                </div>
+            </section>
+            <section class="section--page">
+                <h2>Soft Skills</h2>
+
+                <div id="wrapper--techstack__items">
+                    <div class="card--techstack"><span> ➢ Problem Solving </span></div> 
+                    <div class="card--techstack"><span> ➢ Positive Attitude </span></div>
+                    <div class="card--techstack"><span> ➢ Self-Confidence </span></div>
+                    <div class="card--techstack"><span> ➢ Adaptability and Responsibility </span></div>
+                </div>
+            </section>
+            <section class="section--page">
+                <h2> Hobbies </h2>
+
+                <div id="wrapper--techstack__items">
+                    <div class="card--techstack"><span> ➢ Team Sports </span></div>
+                    <div class="card--techstack"><span> ➢ Watching Movies </span></div> 
+                    <div class="card--techstack"><span> ➢ Learning New Things </span></div> 
+                </div>
+            </section>
+            <section class="section--page">
+                <h2> Languages Known </h2>
+
+                <div id="wrapper--techstack__items">
+                    <div class="card--techstack"><span> ➢ English </span></div>
+                    <div class="card--techstack"><span> ➢ Hindi </span></div> 
+                    <div class="card--techstack"><span> ➢ Telugu </span></div> 
+                </div>
+            </section>
+
+
+
+
+       
+        </div>  
+
+    </body>
+</html>
